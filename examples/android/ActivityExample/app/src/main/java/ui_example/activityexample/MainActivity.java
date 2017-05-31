@@ -11,6 +11,8 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
+    private final String tag = "ActivityStatesExample";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,10 +30,19 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-   // @Override
-   // protected void onRestart(){
+   @Override
+   protected void onRestart(){
+       super.onRestart();
 
-   // }
+       Log.d(tag, "onRestart");
+   }
+
+   @Override
+   protected void onPause(){
+       super.onPause();
+
+       Log.d(tag, "onPause");
+   }
 
 
     @Override
