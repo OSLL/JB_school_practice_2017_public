@@ -12,6 +12,7 @@
 * [Git](https://docs.google.com/presentation/d/10VyLtGyOv9pO_GNF3B-9rLK2_QnBHRm-EanDm0ON6k4/edit?usp=sharing)
 * [Android](https://docs.google.com/presentation/d/1a4CyT6orEOD_InXQXzLK-QqyuYB_gaJF8kZQw81KZGE/edit?usp=sharing)
 * [Ответы на вопросы слушателей](https://docs.google.com/presentation/d/1_jDV1UOhmaTFUciCljty3_xLlb0zqVodXj7q9kVMk3w/edit?usp=sharing)
+* [Анимация](https://github.com/OSLL/JB_school_practice_2017_public/blob/master/examples/android/AnimationsShowcase/extra/animations.pptx)
 
 ## Расписание
 
