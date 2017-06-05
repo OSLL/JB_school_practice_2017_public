@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/container_view"
+        android:gravity="center"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/fuel"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_margin="5dp"
+                android:foreground="@drawable/history_new_item_button_background"
+                android:background="@drawable/circle_blue"
+                app:srcCompat="@drawable/ic_near_me_white_24dp"/>
+
+            <ImageButton
+                android:id="@+id/mileage"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_margin="5dp"
+                android:foreground="@drawable/history_new_item_button_background"
+                android:background="@drawable/circle_green"
+                app:srcCompat="@drawable/ic_camera_white_24dp"/>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/wash"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:foreground="@drawable/history_new_item_button_background"
+                android:layout_margin="5dp"
+                android:background="@drawable/circle_violet"
+                app:srcCompat="@drawable/ic_color_lens_white_24dp"/>
+
+            <ImageButton
+                android:id="@+id/note"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_margin="5dp"
+                android:foreground="@drawable/history_new_item_button_background"
+                android:background="@drawable/circle_orange"
+                app:srcCompat="@drawable/ic_pool_white_24dp"/>
+
+            <ImageButton
+                android:id="@+id/repair"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_margin="5dp"
+                android:foreground="@drawable/history_new_item_button_background"
+                android:background="@drawable/circle_red"
+                app:srcCompat="@drawable/ic_favorite_border_white_24dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal"
+    tools:context="com.gitintheshell.animationsshowcase.InterpolatorActivity">
+
+
+    <View
+        android:id="@+id/red"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/circle_red"
+        android:layout_margin="10dp"/>
+
+
+    <View
+        android:id="@+id/green"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/circle_green"
+        android:layout_margin="10dp"/>
+
+
+    <View
+        android:id="@+id/blue"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/circle_blue"
+        android:layout_margin="10dp"/>
+
+</LinearLayout>

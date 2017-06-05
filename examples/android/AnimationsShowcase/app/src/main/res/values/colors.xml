@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#517089</color>
+    <color name="colorPrimaryDark">#425b70</color>
+    <color name="colorAccent">#ffac40</color>
+
+    <color name="toolbar_color">#607d8b</color>
+
+    <color name="tab_notifications_color">#e2847f</color>
+    <color name="tab_notifications_color_dark">#b66d69</color>
+    <color name="tab_history_color">#8eba7f</color>
+    <color name="tab_history_color_dark">#638159</color>
+    <color name="tab_car_color">#517089</color>
+    <color name="tab_car_color_dark">#425b70</color>
+
+    <color name="history_new_item_button_background_color_pressed">#d4d4d4</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
