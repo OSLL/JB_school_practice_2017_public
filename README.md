@@ -15,6 +15,10 @@
 * [Анимация](https://github.com/OSLL/JB_school_practice_2017_public/blob/master/examples/android/AnimationsShowcase/extra/animations.pptx)
 * [Таблица с проектами, первая волна](https://docs.google.com/spreadsheets/d/1jFan61Pu9E1M3Dxr6FO8X4mTwj0B5uGMFoq9svN5tkk/edit?pli=1#gid=0)
 
+## Литература
+
+* [Паттерны объектно-ориентированного програмиирования](http://modis.ispras.ru/Lizorkin/private/patterns.pdf)
+
 ## Расписание
 
 ### 1 июня
