@@ -1,3 +1,6 @@
+package java_examples.observer;
+
+
 public class TextEdit implements Observer {
 
     private Button button;

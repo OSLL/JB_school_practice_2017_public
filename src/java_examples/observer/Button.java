@@ -1,3 +1,5 @@
+package java_examples.observer;
+
 import java.util.LinkedList;
 import java.util.List;
 

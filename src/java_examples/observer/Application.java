@@ -1,3 +1,5 @@
+package java_examples.observer;
+
 
 public class Application {
 
