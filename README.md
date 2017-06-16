@@ -14,6 +14,8 @@
 * [Ответы на вопросы слушателей](https://docs.google.com/presentation/d/1_jDV1UOhmaTFUciCljty3_xLlb0zqVodXj7q9kVMk3w/edit?usp=sharing)
 * [Анимация](https://github.com/OSLL/JB_school_practice_2017_public/blob/master/examples/android/AnimationsShowcase/extra/animations.pptx)
 * [Таблица с проектами, первая волна](https://docs.google.com/spreadsheets/d/1jFan61Pu9E1M3Dxr6FO8X4mTwj0B5uGMFoq9svN5tkk/edit?pli=1#gid=0)
+* [Таблица с проектами, вторая волна](https://docs.google.com/spreadsheets/d/1RdToyLscohd8bZRdV0J9wlS9WhOu2BIB2njmzpeKINI/edit?usp=sharing)
+
 
 ## Литература
 
